@@ -172,7 +172,7 @@ Feel free to cite this work if you find it useful to you !
 ```python
 @article{KPPepGen,
     title={\textit{De novo} generation of pathogen-specific peptides through knowledge-aware prompt diffusion model},
-    author={Yongkang Wang, Menglu Li, Minyao Qiu, and Wen Zhang},
+    author={Yongkang Wang, Menglu Li, Feng Huang, Minyao Qiu, and Wen Zhang},
     year={2025},
 }
 ```
