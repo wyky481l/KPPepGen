@@ -1,10 +1,10 @@
-# *De novo* generation of pathogen-specific peptides through knowledge-aware prompt diffusion model
+# Controllable generation of pathogen-specific antimicrobial peptides through knowledge-aware prompt diffusion model
 
 ## Introduction
 
 -----
 
-This repository contains the dataset, source code, and package for the paper "*De novo* generation of pathogen-specific peptides through knowledge-aware prompt diffusion model". KPPepGen employs the knowledge-aware peptide pre-training process in two distinct stages, integrating GO and pathogen knowledge. In the subsequent peptide generation, KPPepGen leverages the learned pathogen-specific prompts from these knowledge graphs, employing a prompt-guided diffusion, to generate biologically plausible peptides tailored to various pathogen tasks.
+This repository contains the dataset, source code, and package for the paper "Controllable generation of pathogen-specific antimicrobial peptides through knowledge-aware prompt diffusion model". KPPepGen employs the knowledge-aware peptide pre-training process in two distinct stages, integrating GO and pathogen knowledge. In the subsequent peptide generation, KPPepGen leverages the learned pathogen-specific prompts from these knowledge graphs, employing a prompt-guided diffusion, to generate biologically plausible peptides tailored to various pathogen tasks.
 
 
 
@@ -171,7 +171,7 @@ Feel free to cite this work if you find it useful to you !
 
 ```python
 @article{KPPepGen,
-    title={\textit{De novo} generation of pathogen-specific peptides through knowledge-aware prompt diffusion model},
+    title= Controllable generation of pathogen-specific antimicrobial peptides through knowledge-aware prompt diffusion model,
     author={Yongkang Wang, Menglu Li, Feng Huang, Minyao Qiu, and Wen Zhang},
     year={2025},
 }
