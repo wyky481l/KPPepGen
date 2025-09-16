@@ -171,9 +171,9 @@ Feel free to cite this work if you find it useful to you !
 
 ```python
 @article{KPPepGen,
-    title= Controllable generation of pathogen-specific antimicrobial peptides through knowledge-aware prompt diffusion model,
-    author={Yongkang Wang, Menglu Li, Feng Huang, Minyao Qiu, and Wen Zhang},
-    year={2025},
+    title = Controllable generation of pathogen-specific antimicrobial peptides through knowledge-aware prompt diffusion model,
+    author = {Yongkang Wang, Menglu Li, Feng Huang, Minyao Qiu, and Wen Zhang},
+    year = {2025},
     journal = {Advanced Science},
     doi = {10.1002/advs.202507457},
 }
